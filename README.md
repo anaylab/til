@@ -7,6 +7,7 @@ Short notes on things I learn day to day, mostly Swift, macOS, and dev tooling.
 - [`defer` blocks run in reverse order](swift/defer-order.md)
 - [`some` vs `any`](swift/some-vs-any.md)
 - [`@Observable` only tracks what you read](swift/observable-tracking.md)
+- [`Task { }` keeps `self` alive until it finishes](swift/task-capture.md)
 
 ## macOS
 - [Menu bar–only apps with `LSUIElement`](macos/lsuielement.md)
