@@ -12,3 +12,6 @@ Short notes on things I learn day to day, mostly Swift, macOS, and dev tooling.
 ## Git
 - [Crediting co-authors in a commit](git/co-authored-by.md)
 - [`git switch -` jumps back to the last branch](git/switch-dash.md)
+
+## Shell
+- [Find what's listening on a port](shell/whats-on-a-port.md)
