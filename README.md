@@ -12,6 +12,7 @@ Short notes on things I learn day to day, mostly Swift, macOS, and dev tooling.
 - [Menu bar–only apps with `LSUIElement`](macos/lsuielement.md)
 - [Reading app preferences with `defaults`](macos/defaults.md)
 - [Silent screenshots from the terminal](macos/screencapture.md)
+- [Spotlight search from the terminal](macos/mdfind.md)
 
 ## Git
 - [Crediting co-authors in a commit](git/co-authored-by.md)
