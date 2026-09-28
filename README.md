@@ -21,3 +21,4 @@ Short notes on things I learn day to day, mostly Swift, macOS, and dev tooling.
 
 ## Shell
 - [Find what's listening on a port](shell/whats-on-a-port.md)
+- [Print only the HTTP status with curl](shell/curl-status.md)
