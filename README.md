@@ -8,6 +8,7 @@ Short notes on things I learn day to day, mostly Swift, macOS, and dev tooling.
 - [`some` vs `any`](swift/some-vs-any.md)
 - [`@Observable` only tracks what you read](swift/observable-tracking.md)
 - [`Task { }` keeps `self` alive until it finishes](swift/task-capture.md)
+- [`async let` runs child tasks in parallel](swift/async-let.md)
 
 ## macOS
 - [Menu bar–only apps with `LSUIElement`](macos/lsuielement.md)
