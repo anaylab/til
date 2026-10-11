@@ -17,6 +17,7 @@ Short notes on things I learn day to day, mostly Swift, macOS, and dev tooling.
 - [Silent screenshots from the terminal](macos/screencapture.md)
 - [Spotlight search from the terminal](macos/mdfind.md)
 - [Global event monitors can't swallow events](macos/global-monitor.md)
+- [Keep the Mac awake with `caffeinate`](macos/caffeinate.md)
 
 ## Git
 - [Crediting co-authors in a commit](git/co-authored-by.md)
