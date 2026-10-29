@@ -19,6 +19,7 @@ Short notes on things I learn day to day, mostly Swift, macOS, and dev tooling.
 - [Global event monitors can't swallow events](macos/global-monitor.md)
 - [Keep the Mac awake with `caffeinate`](macos/caffeinate.md)
 - [Text-to-speech from the terminal with `say`](macos/say.md)
+- [Clearing the quarantine flag with `xattr`](macos/quarantine-xattr.md)
 
 ## Git
 - [Crediting co-authors in a commit](git/co-authored-by.md)
