@@ -28,6 +28,7 @@ Short notes on things I learn day to day, mostly Swift, macOS, and dev tooling.
 - [Fixup commits and `--autosquash`](git/autosquash.md)
 - [Work on two branches at once with `git worktree`](git/worktree.md)
 - [Undo a bad `git reset --hard` with `git reflog`](git/reflog-undo-reset.md)
+- [`git stash` skips untracked files unless you pass `-u`](git/stash-untracked.md)
 
 ## Shell
 - [Find what's listening on a port](shell/whats-on-a-port.md)
