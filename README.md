@@ -29,6 +29,7 @@ Short notes on things I learn day to day, mostly Swift, macOS, and dev tooling.
 - [Work on two branches at once with `git worktree`](git/worktree.md)
 - [Undo a bad `git reset --hard` with `git reflog`](git/reflog-undo-reset.md)
 - [`git stash` skips untracked files unless you pass `-u`](git/stash-untracked.md)
+- [Let `git bisect run` find the bad commit for you](git/bisect-run.md)
 
 ## Shell
 - [Find what's listening on a port](shell/whats-on-a-port.md)
