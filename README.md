@@ -38,6 +38,7 @@ Short notes on things I learn day to day, mostly Swift, macOS, and dev tooling.
 
 ## Ollama
 - [Keep an Ollama model loaded with `keep_alive`](ollama/keep-alive.md)
+- [See what Ollama has loaded with `ollama ps`](ollama/ps.md)
 
 ## SwiftUI
 - [`MenuBarExtra` can show a window, not just a menu](swiftui/menu-bar-extra-window.md)
