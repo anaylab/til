@@ -33,6 +33,7 @@ Short notes on things I learn day to day, mostly Swift, macOS, and dev tooling.
 - [`git stash` skips untracked files unless you pass `-u`](git/stash-untracked.md)
 - [Let `git bisect run` find the bad commit for you](git/bisect-run.md)
 - [`git diff --word-diff` for prose and one-line changes](git/word-diff.md)
+- [Unstage a file with `git restore --staged`](git/restore-staged.md)
 
 ## Shell
 - [Find what's listening on a port](shell/whats-on-a-port.md)
